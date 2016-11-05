@@ -703,6 +703,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Images\SortAscending.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Images\SourceFileGroup.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -1042,6 +1046,7 @@
     <Resource Include="Images\Settings.16.16.png" />
     <Resource Include="Images\Snippet.16.16.png" />
     <Resource Include="Images\Solution.16.16.png" />
+    <Resource Include="Images\SortAscending.16.16.png" />
     <Resource Include="Images\SourceFileGroup.16.16.png" />
     <Resource Include="Images\SplitScreenHorizontally.16.16.png" />
     <Resource Include="Images\SplitScreenVertically.16.16.png" />
