@@ -5,7 +5,7 @@
         <DrawingBrush.Drawing>
           <DrawingGroup>
             <DrawingGroup.Children>
-              <GeometryDrawing Brush="#FFF6F6F6" Geometry="F1 M0,-0.000199999999999534 L0,10.999799999999999 L9,10.999799999999999 L9,15.999799999999999 L16,15.999799999999999 L16,8.9998 L11,8.9998 L11,-0.000199999999999534" />
+              <GeometryDrawing Brush="#FFF6F6F6" Geometry="F1 M0,-0.000199999999999534 L0,10.9998 L9,10.9998 L9,15.9998 L16,15.9998 L16,8.9998 L11,8.9998 L11,-0.000199999999999534" />
               <GeometryDrawing Brush="#FF414141" Geometry="F1 M5,6 L6,6 L6,3 L5,3" />
               <GeometryDrawing Brush="#FF414141" Geometry="F1 M5,8 L6,8 L6,7 L5,7" />
               <GeometryDrawing Brush="#FF414141" Geometry="F1 M9,9 L2,9 L2,2 L9,2 L9,9 L10,9 L10,1 L1,1 L1,10 L9,10" />
