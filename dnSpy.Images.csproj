@@ -382,6 +382,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Images\FileSystemWatcher.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Images\Fill.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -965,6 +969,7 @@
     <Resource Include="Images\FieldPublic.16.16.png" />
     <Resource Include="Images\FieldSealed.16.16.png" />
     <Resource Include="Images\FieldShortcut.16.16.png" />
+    <Resource Include="Images\FileSystemWatcher.16.16.png" />
     <Resource Include="Images\Fill.16.16.png" />
     <Resource Include="Images\Filter.16.16.png" />
     <Resource Include="Images\FolderClosed.16.16.png" />
