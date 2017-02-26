@@ -802,6 +802,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Images\TerminateProcess.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Images\TextFile.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -1074,6 +1078,7 @@
     <Resource Include="Images\TemplatePrivate.16.16.png" />
     <Resource Include="Images\TemplateProtected.16.16.png" />
     <Resource Include="Images\TemplateShortcut.16.16.png" />
+    <Resource Include="Images\TerminateProcess.16.16.png" />
     <Resource Include="Images\TextFile.16.16.png" />
     <Resource Include="Images\Thread.16.16.png" />
     <Resource Include="Images\ToggleAllBreakpoints.16.16.png" />
