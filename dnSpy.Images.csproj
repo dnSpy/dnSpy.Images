@@ -250,6 +250,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Images\Edit.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Images\Editor.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -940,6 +944,7 @@
     <Resource Include="Images\DisassemblyWindow.16.16.png" />
     <Resource Include="Images\DownloadNoColor.16.16.png" />
     <Resource Include="Images\DraggedCurrentInstructionPointer.16.16.png" />
+    <Resource Include="Images\Edit.16.16.png" />
     <Resource Include="Images\Editor.16.16.png" />
     <Resource Include="Images\EnableAllBreakpoints.16.16.png" />
     <Resource Include="Images\EntryPoint.16.16.png" />
