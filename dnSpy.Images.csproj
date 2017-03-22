@@ -66,6 +66,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Images\AutosWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Images\Backwards.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -898,6 +902,7 @@
     <Resource Include="Images\AssemblyError.16.16.png" />
     <Resource Include="Images\AssemblyExe.16.16.png" />
     <Resource Include="Images\AutoSizeOptimize.16.16.png" />
+    <Resource Include="Images\AutosWindow.16.16.png" />
     <Resource Include="Images\Backwards.16.16.png" />
     <Resource Include="Images\Binary.16.16.png" />
     <Resource Include="Images\BinaryFile.16.16.png" />
