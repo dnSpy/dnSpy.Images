@@ -430,6 +430,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Images\Import.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Images\IntellisenseKeyword.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -579,6 +583,10 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="Images\OneLevelUp.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Images\Open.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -993,6 +1001,7 @@
     <Resource Include="Images\GoToNextInList.16.16.png" />
     <Resource Include="Images\GoToSourceCode.16.16.png" />
     <Resource Include="Images\Image.16.16.png" />
+    <Resource Include="Images\Import.16.16.png" />
     <Resource Include="Images\IntellisenseKeyword.16.16.png" />
     <Resource Include="Images\InterfaceInternal.16.16.png" />
     <Resource Include="Images\InterfacePrivate.16.16.png" />
@@ -1031,6 +1040,7 @@
     <Resource Include="Images\NewWindow.16.16.png" />
     <Resource Include="Images\NuGet.16.16.png" />
     <Resource Include="Images\OneLevelUp.16.16.png" />
+    <Resource Include="Images\Open.16.16.png" />
     <Resource Include="Images\OpenFolder.16.16.png" />
     <Resource Include="Images\OperatorInternal.16.16.png" />
     <Resource Include="Images\OperatorPrivate.16.16.png" />
