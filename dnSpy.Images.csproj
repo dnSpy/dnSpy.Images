@@ -742,6 +742,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Images\StatusHelp.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Images\StatusHidden.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -1079,6 +1083,7 @@
     <Resource Include="Images\SplitScreenHorizontally.16.16.png" />
     <Resource Include="Images\SplitScreenVertically.16.16.png" />
     <Resource Include="Images\StatusError.16.16.png" />
+    <Resource Include="Images\StatusHelp.16.16.png" />
     <Resource Include="Images\StatusHidden.16.16.png" />
     <Resource Include="Images\StatusInformation.16.16.png" />
     <Resource Include="Images\StatusWarning.16.16.png" />
