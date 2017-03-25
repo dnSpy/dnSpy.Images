@@ -50,6 +50,22 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Images\AdvancedBreakpointDisabled.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Images\AdvancedBreakpointEnabled.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Images\AdvancedTracepointDisabled.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Images\AdvancedTracepointEnabled.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Images\Assembly.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -82,6 +98,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Images\BoundBreakpoint.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Images\Branch.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -94,7 +114,15 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Images\BreakpointError.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Images\BreakpointsWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Images\BreakpointWarning.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -103,6 +131,10 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="Images\CallReturnInstructionPointer.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Images\CallReturnInstructionPointerAlert.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -206,6 +238,14 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Images\CurrentInstructionPointerPaused.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Images\CurrentInstructionPointerStopped.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Images\Cursor.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -234,6 +274,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Images\DeleteBreakpoint.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Images\Dialog.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -251,6 +295,10 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="Images\DraggedCurrentInstructionPointer.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Images\DraggedInstructionPointerPaused.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -854,6 +902,22 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Images\TracepointDisabled.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Images\TracepointEnabled.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Images\TracepointError.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Images\TracePointWarning.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Images\Type.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -910,6 +974,10 @@
   <ItemGroup>
     <Resource Include="Images\Add.16.16.png" />
     <Resource Include="Images\AddReference.16.16.png" />
+    <Resource Include="Images\AdvancedBreakpointDisabled.16.16.png" />
+    <Resource Include="Images\AdvancedBreakpointEnabled.16.16.png" />
+    <Resource Include="Images\AdvancedTracepointDisabled.16.16.png" />
+    <Resource Include="Images\AdvancedTracepointEnabled.16.16.png" />
     <Resource Include="Images\Assembly.16.16.png" />
     <Resource Include="Images\AssemblyError.16.16.png" />
     <Resource Include="Images\AssemblyExe.16.16.png" />
@@ -918,12 +986,16 @@
     <Resource Include="Images\Backwards.16.16.png" />
     <Resource Include="Images\Binary.16.16.png" />
     <Resource Include="Images\BinaryFile.16.16.png" />
+    <Resource Include="Images\BoundBreakpoint.16.16.png" />
     <Resource Include="Images\Branch.16.16.png" />
     <Resource Include="Images\BreakpointDisabled.16.16.png" />
     <Resource Include="Images\BreakpointEnabled.16.16.png" />
+    <Resource Include="Images\BreakpointError.16.16.png" />
     <Resource Include="Images\BreakpointsWindow.16.16.png" />
+    <Resource Include="Images\BreakpointWarning.16.16.png" />
     <Resource Include="Images\BuildSolution.16.16.png" />
     <Resource Include="Images\CallReturnInstructionPointer.16.16.png" />
+    <Resource Include="Images\CallReturnInstructionPointerAlert.16.16.png" />
     <Resource Include="Images\CallStackWindow.16.16.png" />
     <Resource Include="Images\Cancel.16.16.png" />
     <Resource Include="Images\CheckDot.16.16.png" />
@@ -949,6 +1021,8 @@
     <Resource Include="Images\CSInteractiveWindow.16.16.png" />
     <Resource Include="Images\CSProjectNode.16.16.png" />
     <Resource Include="Images\CurrentInstructionPointer.16.16.png" />
+    <Resource Include="Images\CurrentInstructionPointerPaused.16.16.png" />
+    <Resource Include="Images\CurrentInstructionPointerStopped.16.16.png" />
     <Resource Include="Images\Cursor.16.16.png" />
     <Resource Include="Images\Cut.16.16.png" />
     <Resource Include="Images\DelegateInternal.16.16.png" />
@@ -956,11 +1030,13 @@
     <Resource Include="Images\DelegateProtected.16.16.png" />
     <Resource Include="Images\DelegatePublic.16.16.png" />
     <Resource Include="Images\DelegateShortcut.16.16.png" />
+    <Resource Include="Images\DeleteBreakpoint.16.16.png" />
     <Resource Include="Images\Dialog.16.16.png" />
     <Resource Include="Images\DisableAllBreakpoints.16.16.png" />
     <Resource Include="Images\DisassemblyWindow.16.16.png" />
     <Resource Include="Images\DownloadNoColor.16.16.png" />
     <Resource Include="Images\DraggedCurrentInstructionPointer.16.16.png" />
+    <Resource Include="Images\DraggedInstructionPointerPaused.16.16.png" />
     <Resource Include="Images\Edit.16.16.png" />
     <Resource Include="Images\Editor.16.16.png" />
     <Resource Include="Images\EnableAllBreakpoints.16.16.png" />
@@ -1111,6 +1187,10 @@
     <Resource Include="Images\ToolstripPanelLeft.16.16.png" />
     <Resource Include="Images\ToolstripPanelRight.16.16.png" />
     <Resource Include="Images\ToolstripPanelTop.16.16.png" />
+    <Resource Include="Images\TracepointDisabled.16.16.png" />
+    <Resource Include="Images\TracepointEnabled.16.16.png" />
+    <Resource Include="Images\TracepointError.16.16.png" />
+    <Resource Include="Images\TracePointWarning.16.16.png" />
     <Resource Include="Images\Type.16.16.png" />
     <Resource Include="Images\Undo.16.16.png" />
     <Resource Include="Images\UndoCheckBoxList.16.16.png" />
