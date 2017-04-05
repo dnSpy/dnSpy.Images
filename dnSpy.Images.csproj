@@ -914,7 +914,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="Images\TracePointWarning.xaml">
+    <Page Include="Images\TracepointWarning.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -1190,7 +1190,7 @@
     <Resource Include="Images\TracepointDisabled.16.16.png" />
     <Resource Include="Images\TracepointEnabled.16.16.png" />
     <Resource Include="Images\TracepointError.16.16.png" />
-    <Resource Include="Images\TracePointWarning.16.16.png" />
+    <Resource Include="Images\TracepointWarning.16.16.png" />
     <Resource Include="Images\Type.16.16.png" />
     <Resource Include="Images\Undo.16.16.png" />
     <Resource Include="Images\UndoCheckBoxList.16.16.png" />
