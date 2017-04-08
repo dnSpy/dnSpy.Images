@@ -98,6 +98,22 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Images\Bookmark.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Images\BookmarkDisabled.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Images\BookmarkGroupDisabled.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Images\BookmarkMainMenuItem.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Images\BoundBreakpoint.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -167,6 +183,10 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="Images\ClassShortcut.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Images\ClearBookmark.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -626,6 +646,18 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Images\NextBookmark.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Images\NextBookmarkInFile.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Images\NextBookmarkInFolder.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Images\NuGet.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -679,6 +711,18 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="Images\Pause.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Images\PreviousBookmark.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Images\PreviousBookmarkInFile.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Images\PreviousBookmarkInFolder.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -986,6 +1030,10 @@
     <Resource Include="Images\Backwards.16.16.png" />
     <Resource Include="Images\Binary.16.16.png" />
     <Resource Include="Images\BinaryFile.16.16.png" />
+    <Resource Include="Images\Bookmark.16.16.png" />
+    <Resource Include="Images\BookmarkDisabled.16.16.png" />
+    <Resource Include="Images\BookmarkGroupDisabled.16.16.png" />
+    <Resource Include="Images\BookmarkMainMenuItem.16.16.png" />
     <Resource Include="Images\BoundBreakpoint.16.16.png" />
     <Resource Include="Images\Branch.16.16.png" />
     <Resource Include="Images\BreakpointDisabled.16.16.png" />
@@ -1004,6 +1052,7 @@
     <Resource Include="Images\ClassProtected.16.16.png" />
     <Resource Include="Images\ClassPublic.16.16.png" />
     <Resource Include="Images\ClassShortcut.16.16.png" />
+    <Resource Include="Images\ClearBookmark.16.16.png" />
     <Resource Include="Images\ClearBreakpointGroup.16.16.png" />
     <Resource Include="Images\ClearWindowContent.16.16.png" />
     <Resource Include="Images\CloseAll.16.16.png" />
@@ -1118,6 +1167,9 @@
     <Resource Include="Images\NewMethod.16.16.png" />
     <Resource Include="Images\NewProperty.16.16.png" />
     <Resource Include="Images\NewWindow.16.16.png" />
+    <Resource Include="Images\NextBookmark.16.16.png" />
+    <Resource Include="Images\NextBookmarkInFile.16.16.png" />
+    <Resource Include="Images\NextBookmarkInFolder.16.16.png" />
     <Resource Include="Images\NuGet.16.16.png" />
     <Resource Include="Images\OneLevelUp.16.16.png" />
     <Resource Include="Images\Open.16.16.png" />
@@ -1132,6 +1184,9 @@
     <Resource Include="Images\Parameter.16.16.png" />
     <Resource Include="Images\Paste.16.16.png" />
     <Resource Include="Images\Pause.16.16.png" />
+    <Resource Include="Images\PreviousBookmark.16.16.png" />
+    <Resource Include="Images\PreviousBookmarkInFile.16.16.png" />
+    <Resource Include="Images\PreviousBookmarkInFolder.16.16.png" />
     <Resource Include="Images\Process.16.16.png" />
     <Resource Include="Images\Property.16.16.png" />
     <Resource Include="Images\PropertyInternal.16.16.png" />
