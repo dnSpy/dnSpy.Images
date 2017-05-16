@@ -298,6 +298,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Images\DeleteWatch.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Images\Dialog.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -1080,6 +1084,7 @@
     <Resource Include="Images\DelegatePublic.16.16.png" />
     <Resource Include="Images\DelegateShortcut.16.16.png" />
     <Resource Include="Images\DeleteBreakpoint.16.16.png" />
+    <Resource Include="Images\DeleteWatch.16.16.png" />
     <Resource Include="Images\Dialog.16.16.png" />
     <Resource Include="Images\DisableAllBreakpoints.16.16.png" />
     <Resource Include="Images\DisassemblyWindow.16.16.png" />
