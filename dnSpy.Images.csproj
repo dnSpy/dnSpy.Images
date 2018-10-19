@@ -5,7 +5,6 @@
   <PropertyGroup>
     <SignAssembly>True</SignAssembly>
     <AssemblyOriginatorKeyFile>..\..\dnSpy.snk</AssemblyOriginatorKeyFile>
-    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
   </PropertyGroup>
 
   <ItemGroup>
