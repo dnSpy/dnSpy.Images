@@ -1233,10 +1233,14 @@
     <Resource Include="Images\XSLTransform.16.16.png" />
   </ItemGroup>
 
-  <ItemGroup>
+  <ItemGroup Condition=" '$(IsDotNetFramework)' == 'true' ">
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
     <Reference Include="WindowsBase" />
+   </ItemGroup>
+
+  <ItemGroup Condition=" '$(IsDotNetCore)' == 'true' ">
+    <FrameworkReference Include="Microsoft.DesktopUI"/>
   </ItemGroup>
 
 </Project>
