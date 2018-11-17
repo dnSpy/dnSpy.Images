@@ -5,6 +5,7 @@
   <PropertyGroup>
     <SignAssembly>True</SignAssembly>
     <AssemblyOriginatorKeyFile>..\..\dnSpy.snk</AssemblyOriginatorKeyFile>
+    <UseWPF>true</UseWPF>
   </PropertyGroup>
 
   <ItemGroup>
@@ -1238,9 +1239,5 @@
     <Reference Include="PresentationFramework" />
     <Reference Include="WindowsBase" />
    </ItemGroup>
-
-  <ItemGroup Condition=" '$(IsDotNetCore)' == 'true' ">
-    <FrameworkReference Include="Microsoft.DesktopUI"/>
-  </ItemGroup>
 
 </Project>
